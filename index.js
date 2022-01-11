@@ -17,7 +17,6 @@ app.use((req, res, next) => {
 });
 
 app.get("/" , (req, res) => {
-    res.send('test')
     res.send('Olá, para fazer a requisição digite /characters. Para fazer requisição de um personagem específico /characters/IDdoPersonagem. By https://github.com/ClaudioDev233 ')
 })
 
