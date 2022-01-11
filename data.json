@@ -1,0 +1,19 @@
+
+[
+    {
+    "id": 1,
+    "nome": "Eren",
+    "sobrenome": "Yeager/Jaeger"
+} ,
+{
+    "id": 2,
+    "nome": "Armin",
+    "sobrenome": "Arlert"
+},
+{
+    "id": 3,
+    "nome": "Mikasa",
+    "sobrenome": "Ackerman"
+}
+
+]

@@ -1,0 +1,22 @@
+{
+  "name": "attackontitanapi",
+  "version": "1.0.0",
+  "description": "Attack On Titan API on node.js and express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.2"
+  },
+  "engines": {
+    "node": "16.13.1",
+    "npm": "8.1.2"
+
+  }
+}
