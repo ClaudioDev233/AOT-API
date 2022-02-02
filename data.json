@@ -3,7 +3,10 @@
     "id": 1,
     "name": "Eren",
     "surname": "Yeager/Jaeger",
-    "affiliation": "Survey Corps"
+    "affiliation": "Survey Corps",
+    "img":{
+      "550" : "https://static.wikia.nocookie.net/shingekinokyojin/images/3/3c/Eren_Jaeger_%28Anime%29_character_image_%28850%29.png/revision/latest/scale-to-width-down/350?cb=20201228000236"    
+    }
   },
   {
     "id": 2,
