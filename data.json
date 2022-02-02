@@ -4,8 +4,9 @@
     "name": "Eren",
     "surname": "Yeager/Jaeger",
     "affiliation": "Survey Corps",
-    "img":{
-      "pre" : "https://i.imgur.com/FLQ44Gx.png"    
+    "img": {
+      "pre": "https://i.imgur.com/FLQ44Gx.png",
+      "pos": "https://github.com/ClaudioDev233/aotimgs/blob/main/eren854.png"
     }
   },
   {
@@ -105,4 +106,3 @@
     "affiliation": "Warriors"
   }
 ]
-
