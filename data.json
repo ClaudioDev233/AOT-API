@@ -5,104 +5,165 @@
     "surname": "Yeager/Jaeger",
     "affiliation": "Survey Corps",
     "img": {
-      "1": "https://i.imgur.com/FLQ44Gx.png",
-      "pos": "https://github.com/ClaudioDev233/aotimgs/blob/main/eren854.png"
+      "pre": "https://github.com/ClaudioDev233/AOT-API/blob/main/images/characters/eren850.png?raw=true",
+      "pos": "https://github.com/ClaudioDev233/AOT-API/blob/main/images/characters/eren854.png?raw=true"
     }
   },
   {
     "id": 2,
     "name": "Armin",
     "surname": "Arlert",
-    "affiliation": "Survey Corps"
+    "affiliation": "Survey Corps",
+    "img": {
+      "pre": "https://github.com/ClaudioDev233/AOT-API/blob/main/images/characters/armin850.png?raw=true",
+      "pos": "https://github.com/ClaudioDev233/AOT-API/blob/main/images/characters/armin854.png?raw=true"
+    }
   },
   {
     "id": 3,
     "name": "Mikasa",
     "surname": "Ackerman",
-    "affiliation": "Survey Corps"
+    "affiliation": "Survey Corps",
+    "img": {
+      "pre": "https://github.com/ClaudioDev233/AOT-API/blob/main/images/characters/mikasa850.png?raw=true",
+      "pos": "https://github.com/ClaudioDev233/AOT-API/blob/main/images/characters/mikasa854.png?raw=true"
+    }
   },
   {
     "id": 4,
     "name": "Connie",
     "surname": "Springer",
-    "affiliation": "Survey Corps"
+    "affiliation": "Survey Corps",
+    "img": {
+      "pre": "https://github.com/ClaudioDev233/AOT-API/blob/main/images/characters/conny850.png?raw=true",
+      "pos": "https://github.com/ClaudioDev233/AOT-API/blob/main/images/characters/conny854.png?raw=true"
+    }
   },
   {
     "id": 5,
     "name": "Historia",
     "surname": "Reiss",
-    "affiliation": "Survey Corps"
+    "affiliation": "Survey Corps",
+    "img": {
+      "pre": "https://github.com/ClaudioDev233/AOT-API/blob/main/images/characters/historia850.png?raw=true",
+      "pos": "https://github.com/ClaudioDev233/AOT-API/blob/main/images/characters/historia854.png?raw=true"
+    }
   },
   {
     "id": 6,
     "name": "Jean",
     "surname": "Kirschtein",
-    "affiliation": "Survey Corps"
+    "affiliation": "Survey Corps",
+    "img": {
+      "pre": "https://github.com/ClaudioDev233/AOT-API/blob/main/images/characters/jean850.png?raw=true",
+      "pos": "https://github.com/ClaudioDev233/AOT-API/blob/main/images/characters/jean854.png?raw=true"
+    }
   },
   {
     "id": 7,
     "name": "Sasha",
     "surname": "Braus",
-    "affiliation": "Survey Corps"
+    "affiliation": "Survey Corps",
+    "img": {
+      "pre": "https://github.com/ClaudioDev233/AOT-API/blob/main/images/characters/sasha850.png?raw=true",
+      "pos": "https://github.com/ClaudioDev233/AOT-API/blob/main/images/characters/sasha854.png?raw=true"
+    }
   },
   {
     "id": 8,
     "name": "Floch",
     "surname": "Forster",
-    "affiliation": "Survey Corps"
+    "affiliation": "Survey Corps",
+    "img": {
+      "pre": "https://github.com/ClaudioDev233/AOT-API/blob/main/images/characters/floch850.png?raw=true",
+      "pos": "https://github.com/ClaudioDev233/AOT-API/blob/main/images/characters/floch854.png?raw=true"
+    }
   },
   {
     "id": 9,
     "name": "Erwin",
     "surname": "Smith",
-    "affiliation": "Survey Corps"
+    "affiliation": "Survey Corps",
+    "img": {
+      "pre": "https://github.com/ClaudioDev233/AOT-API/blob/main/images/characters/erwin850.png?raw=true",
+      "pos": "https://github.com/ClaudioDev233/AOT-API/blob/main/images/characters/erwin854.png?raw=true"
+    }
   },
   {
     "id": 10,
     "name": "Levy",
     "surname": "Ackerman",
-    "affiliation": "Survey Corps"
+    "affiliation": "Survey Corps",
+    "img": {
+      "pre": "https://github.com/ClaudioDev233/AOT-API/blob/main/images/characters/levi850.png?raw=true",
+      "pos": "https://github.com/ClaudioDev233/AOT-API/blob/main/images/characters/levi854.png?raw=true"
+    }
   },
   {
     "id": 11,
     "name": "Hange",
     "surname": "Zoë",
-    "affiliation": "Survey Corps"
+    "affiliation": "Survey Corps",
+    "img": {
+      "pre": "https://github.com/ClaudioDev233/AOT-API/blob/main/images/characters/hange850.png?raw=true",
+      "pos": "https://github.com/ClaudioDev233/AOT-API/blob/main/images/characters/hange854.png?raw=true"
+    }
   },
   {
     "id": 12,
     "name": "Reiner",
     "surname": "Braun",
-    "affiliation": "Warriors"
+    "affiliation": "Warriors",
+    "img": {
+      "pre": "https://github.com/ClaudioDev233/AOT-API/blob/main/images/characters/reiner850.png?raw=true",
+      "pos": "https://github.com/ClaudioDev233/AOT-API/blob/main/images/characters/reiner854.png?raw=true"
+    }
   },
   {
     "id": 13,
     "name": "Annie",
     "surname": "Leonhart",
-    "affiliation": "Warriors"
+    "affiliation": "Warriors",
+
+    "img": {
+      "pre": "https://github.com/ClaudioDev233/AOT-API/blob/main/images/characters/annie850.png?raw=true"
+    }
   },
   {
     "id": 14,
     "name": "Bertholdt",
     "surname": "Hoover",
-    "affiliation": "Warriors"
+    "affiliation": "Warriors",
+    "img": {
+      "pre": "https://github.com/ClaudioDev233/AOT-API/blob/main/images/characters/bertholdt850.png?raw=true"
+    }
   },
   {
     "id": 15,
     "name": "Pieck",
     "surname": "Finger",
-    "affiliation": "Warriors"
+    "affiliation": "Warriors",
+    "img": {
+      "pre": "https://github.com/ClaudioDev233/AOT-API/blob/main/images/characters/pieck854.png?raw=true"
+    }
   },
   {
     "id": 16,
     "name": "Porco",
     "surname": "Galliard",
-    "affiliation": "Warriors"
+    "affiliation": "Warriors",
+    "img": {
+      "pre": "https://github.com/ClaudioDev233/AOT-API/blob/main/images/characters/porco854.png?raw=true"
+    }
   },
   {
     "id": 17,
     "name": "Zeke",
     "surname": "Jaeger",
-    "affiliation": "Warriors"
+    "affiliation": "Warriors",
+    "img": {
+      "pre": "https://github.com/ClaudioDev233/AOT-API/blob/main/images/characters/zeke850.png?raw=true",
+      "pos": "https://github.com/ClaudioDev233/AOT-API/blob/main/images/characters/zeke854.png?raw=true"
+    }
   }
 ]
