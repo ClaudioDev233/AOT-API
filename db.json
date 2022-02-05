@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "Attack Titan",
+    "holder": "Eren Jaeger",
+    "img": "https://github.com/ClaudioDev233/AOT-API/blob/main/images/titans/attackTitan.png?raw=true"
+  },
+  {
+    "id": 2,
+    "name": "Armored Titan",
+    "holder": "Reiner Braun",
+    "img": "https://github.com/ClaudioDev233/AOT-API/blob/main/images/titans/armoredTitan.png?raw=true"
+  },
+  {
+    "id": 3,
+    "name": "Female Titan",
+    "holder": "Annie Leonhart",
+    "img": "https://github.com/ClaudioDev233/AOT-API/blob/main/images/titans/femaleTitan.png?raw=true"
+  },
+  {
+    "id": 4,
+    "name": "Colossal Titan",
+    "holder": "Bertholdt Hoover",
+    "img": "https://github.com/ClaudioDev233/AOT-API/blob/main/images/titans/colossalTitan.png?raw=true"
+  },
+  {
+    "id": 5,
+    "name": "Colossal Titan",
+    "holder": "Bertholdt Hoover",
+    "img": "https://github.com/ClaudioDev233/AOT-API/blob/main/images/titans/colossalTitan.png?raw=true"
+  },
+  {
+    "id": 6,
+    "name": "Cart Titan",
+    "holder": "Pieck Finger",
+    "img": "https://github.com/ClaudioDev233/AOT-API/blob/main/images/titans/cartTitan.png?raw=true"
+  },
+  {
+    "id": 7,
+    "name": "Jaw Titan",
+    "holder": "Porco Galliard",
+    "img": "https://github.com/ClaudioDev233/AOT-API/blob/main/images/titans/jawTitan.png?raw=true"
+  },
+  {
+    "id": 8,
+    "name": "War Hammer Titan",
+    "holder": "Lara Tybur",
+    "img": "https://github.com/ClaudioDev233/AOT-API/blob/main/images/titans/jawTitan.png?raw=true"
+  },
+
+  {
+    "id": 9,
+    "name": "Founder Titan",
+    "holder": "Eren Jaeger",
+    "img": "https://static.wikia.nocookie.net/vsbattles/images/e/e3/Eren_Founding_Titan.jpeg/revision/latest?cb=20200717184639"
+  }
+]
