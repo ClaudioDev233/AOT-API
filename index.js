@@ -19,9 +19,7 @@ app.use((req, res, next) => {
 });
 
 app.get("/", (req, res) => {
-  res.send(
-    "Olá, para fazer a requisição digite /characters. Para fazer requisição de um personagem específico /characters/IDdoPersonagem. By https://github.com/ClaudioDev233 "
-  );
+  res.send(url("https://github.com/ClaudioDev233"));
 });
 
 app.listen(process.env.PORT || 3000, function () {
