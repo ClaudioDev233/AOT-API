@@ -25,9 +25,9 @@
   },
   {
     "id": 5,
-    "name": "Colossal Titan",
-    "holder": "Bertholdt Hoover",
-    "img": "https://github.com/ClaudioDev233/AOT-API/blob/main/images/titans/colossalTitan.png?raw=true"
+    "name": "Beast Titan",
+    "holder": "Zeke Jaeger",
+    "img": "https://github.com/ClaudioDev233/AOT-API/blob/main/images/titans/beastTitan.png?raw=true"
   },
   {
     "id": 6,
@@ -45,7 +45,7 @@
     "id": 8,
     "name": "War Hammer Titan",
     "holder": "Lara Tybur",
-    "img": "https://github.com/ClaudioDev233/AOT-API/blob/main/images/titans/jawTitan.png?raw=true"
+    "img": "https://github.com/ClaudioDev233/AOT-API/blob/main/images/titans/warHammer.png?raw=true"
   },
 
   {
