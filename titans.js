@@ -3,7 +3,7 @@ const router = express.Router();
 const titans = require("./db.json");
 
 router.get("/:titanId", (req, res, next) => {
-  const id = req.params.characterId;
+  const id = req.params.titanId;
   res.send(titans.filter((titan) => titan.id == id));
 });
 
